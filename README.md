@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nitin3338
-- 👀 I’m interested in Web & Mobile Apps Development & Data Analytics
+- 👀 I’m interested in Web & Mobile Apps Development & Data Analytics using Power Bi
 - 🌱 I’m currently learning React Native And Firebase
 - 💞️ I’m looking to collaborate on ..
 - 📫 Contact me at nitinpandey3338@gmail.com
